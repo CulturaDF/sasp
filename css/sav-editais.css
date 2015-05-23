@@ -1,0 +1,103 @@
+#sav-editais .odd {
+  background:#eee;
+}
+
+#sav-editais .passos {
+  display:block;
+  height:50px;
+}
+
+#sav-editais .passos li {
+  float:left;
+  margin:0 0 0 20px;
+  padding:10px 20px 10px 10px;
+}
+
+#sav-editais table {
+
+}
+
+#sav-editais tr {
+
+}
+
+#sav-editais th {
+    /*background: red;*/
+}
+
+#sav-editais td {
+
+}
+
+#sav-editais label {
+  display:block;
+  padding:5px 0 0 0;
+}
+
+#sav-editais .etapa th label {
+    width: 150px;
+}
+
+#sav-editais input {
+  padding:5px;
+}
+
+#sav-editais input.large {
+  width:100%;
+  padding:5px;
+}
+
+#sav-editais select {
+    /*width:100%;*/
+    /*padding:5px;*/
+}
+
+#sav-editais textarea {
+  width:100%;
+  padding:5px;
+}
+
+#sav-editais .duvida, #sav-editais .alerta {
+  float:right;
+  display:block;
+  width:18px;
+  height:18px;
+  text-align:center;
+  text-indent:5000px;
+  overflow:hidden;
+  /*background:url( ../img/icon/interrogacao.png ) no-repeat;*/
+  background: url( ../img/icon/ajuda.png) no-repeat 0 0;
+  margin-left: 5px;
+}
+
+#sav-editais .duvida:hover, #sav-editais .alerta:hover {
+    background-position: 0 -17px;
+}
+
+
+#sav-editais .description {
+  padding:5px;
+  font-size:10px;
+}
+
+#sav-editais .limit-chars-counter {
+  font-size:10px;
+  font-style:italic;
+  text-align:right;
+}
+
+#sav-editais .problema {
+	background-color:#ffebe8 !important;
+	border-color:#cc0000 !important;
+}
+
+
+
+/*#sav-editais .float_box {
+	position:fixed; bottom:0
+}*/
+
+.wp-dialog p {
+  padding:5px;
+  text-align:center;
+}

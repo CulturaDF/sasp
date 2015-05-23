@@ -1,0 +1,2726 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u1_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u1_original.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:690px;
+    height:400px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:696px;
+    height:406px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:192px;
+    width:686px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:690px;
+    height:400px
+}
+
+.u3_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u3_original.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:5px;
+    top:40px;
+    width:680px;
+    height:86px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:686px;
+    height:92px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:676px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:5px;
+    top:40px;
+    width:680px;
+    height:86px
+}
+
+.u5_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u5_original.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:610px;
+    top:353px;
+    width:70px;
+    height:20px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:26px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:610px;
+    top:353px;
+    width:70px;
+    height:20px
+}
+
+.u7_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u5_original.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:10px;
+    top:353px;
+    width:70px;
+    height:20px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:26px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:10px;
+    top:353px;
+    width:70px;
+    height:20px
+}
+
+.u9 {
+    position:absolute;
+    left:540px;
+    top:106px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u10_original.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:5px;
+    top:130px;
+    width:680px;
+    height:86px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:686px;
+    height:92px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:676px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:5px;
+    top:130px;
+    width:680px;
+    height:86px
+}
+
+.u12_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u3_original.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:5px;
+    top:223px;
+    width:680px;
+    height:86px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:686px;
+    height:92px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:676px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:5px;
+    top:223px;
+    width:680px;
+    height:86px
+}
+
+.u14_text {
+    position:absolute;
+    left:540px;
+    top:195px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:540px;
+    top:195px;
+    width:100px;
+    height:16px
+}
+
+.u15_text {
+    position:absolute;
+    left:540px;
+    top:105px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:540px;
+    top:105px;
+    width:100px;
+    height:16px
+}
+
+.u16_line {
+    background-image: url('../footer_files/u34_line.png');
+}
+
+.u16_line {
+    position:absolute;
+    left:0px;
+    top:414px;
+    width:690px;
+    height:3px;
+}
+
+.u16 {
+    position:absolute;
+    left:0px;
+    top:414px;
+    width:690px;
+    height:3px
+}
+
+.u17 {
+    position:absolute;
+    left:81px;
+    top:434px;
+    width:480px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:12px;
+    top:67px;
+    width:370px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u20 {
+    position:absolute;
+    left:13px;
+    top:97px;
+    width:70px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u21 {
+    position:absolute;
+    left:93px;
+    top:97px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u22 {
+    position:absolute;
+    left:193px;
+    top:98px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u23 {
+    position:absolute;
+    left:390px;
+    top:66px;
+    width:65px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u24 {
+    position:absolute;
+    left:12px;
+    top:50px;
+    width:190px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:374px;
+    top:50px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:545px;
+    top:77px;
+    width:99px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u27_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u27_container {
+    position:absolute;
+    left:503px;
+    top:50px;
+    width:180px;
+    height:20px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:26px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:503px;
+    top:50px;
+    width:180px;
+    height:20px
+}
+
+.u30 {
+    position:absolute;
+    left:10px;
+    top:157px;
+    width:370px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u31 {
+    position:absolute;
+    left:11px;
+    top:187px;
+    width:70px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u32 {
+    position:absolute;
+    left:91px;
+    top:187px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u33 {
+    position:absolute;
+    left:191px;
+    top:188px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u34 {
+    position:absolute;
+    left:388px;
+    top:156px;
+    width:65px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u35 {
+    position:absolute;
+    left:10px;
+    top:140px;
+    width:190px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:372px;
+    top:140px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:543px;
+    top:167px;
+    width:99px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u38_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u38_container {
+    position:absolute;
+    left:501px;
+    top:140px;
+    width:180px;
+    height:20px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:26px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:501px;
+    top:140px;
+    width:180px;
+    height:20px
+}
+
+.u41 {
+    position:absolute;
+    left:10px;
+    top:247px;
+    width:370px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u42 {
+    position:absolute;
+    left:11px;
+    top:277px;
+    width:70px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u43 {
+    position:absolute;
+    left:91px;
+    top:277px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u44 {
+    position:absolute;
+    left:191px;
+    top:278px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u45 {
+    position:absolute;
+    left:388px;
+    top:246px;
+    width:65px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u46 {
+    position:absolute;
+    left:10px;
+    top:230px;
+    width:190px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:372px;
+    top:230px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:543px;
+    top:257px;
+    width:99px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u49_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u49_container {
+    position:absolute;
+    left:501px;
+    top:230px;
+    width:180px;
+    height:20px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:26px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:501px;
+    top:230px;
+    width:180px;
+    height:20px
+}
+
+.u52_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u52_original.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:280px;
+    top:369px;
+    width:90px;
+    height:21px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:27px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:86px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:280px;
+    top:369px;
+    width:90px;
+    height:21px
+}
+
+.u54_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u54_original.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:290px;
+    top:372px;
+    width:16px;
+    height:16px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:290px;
+    top:372px;
+    width:16px;
+    height:16px
+}
+
+.u57_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u57_original.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:690px;
+    height:300px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:696px;
+    height:306px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:142px;
+    width:686px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:690px;
+    height:300px
+}
+
+.u59_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u3_original.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:5px;
+    top:40px;
+    width:680px;
+    height:86px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:686px;
+    height:92px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:676px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:5px;
+    top:40px;
+    width:680px;
+    height:86px
+}
+
+.u61 {
+    position:absolute;
+    left:540px;
+    top:106px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u10_original.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:5px;
+    top:130px;
+    width:680px;
+    height:86px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:686px;
+    height:92px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:676px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:5px;
+    top:130px;
+    width:680px;
+    height:86px
+}
+
+.u64_text {
+    position:absolute;
+    left:540px;
+    top:195px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64 {
+    position:absolute;
+    left:540px;
+    top:195px;
+    width:100px;
+    height:16px
+}
+
+.u65_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u5_original.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:600px;
+    top:263px;
+    width:70px;
+    height:20px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:26px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:600px;
+    top:263px;
+    width:70px;
+    height:20px
+}
+
+.u67_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u5_original.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:10px;
+    top:263px;
+    width:70px;
+    height:20px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:26px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:10px;
+    top:263px;
+    width:70px;
+    height:20px
+}
+
+.u69_text {
+    position:absolute;
+    left:540px;
+    top:104px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69 {
+    position:absolute;
+    left:540px;
+    top:104px;
+    width:100px;
+    height:16px
+}
+
+.u70_line {
+    background-image: url('../footer_files/u34_line.png');
+}
+
+.u70_line {
+    position:absolute;
+    left:0px;
+    top:315px;
+    width:690px;
+    height:3px;
+}
+
+.u70 {
+    position:absolute;
+    left:0px;
+    top:315px;
+    width:690px;
+    height:3px
+}
+
+.u71 {
+    position:absolute;
+    left:81px;
+    top:335px;
+    width:480px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:12px;
+    top:67px;
+    width:370px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u74 {
+    position:absolute;
+    left:13px;
+    top:97px;
+    width:70px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u75 {
+    position:absolute;
+    left:93px;
+    top:97px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u76 {
+    position:absolute;
+    left:193px;
+    top:98px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u77 {
+    position:absolute;
+    left:390px;
+    top:66px;
+    width:65px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u78 {
+    position:absolute;
+    left:12px;
+    top:50px;
+    width:190px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:374px;
+    top:50px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80 {
+    position:absolute;
+    left:545px;
+    top:77px;
+    width:99px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u81_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u81_container {
+    position:absolute;
+    left:503px;
+    top:50px;
+    width:180px;
+    height:20px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:26px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:503px;
+    top:50px;
+    width:180px;
+    height:20px
+}
+
+.u84 {
+    position:absolute;
+    left:10px;
+    top:157px;
+    width:370px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u85 {
+    position:absolute;
+    left:11px;
+    top:187px;
+    width:70px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u86 {
+    position:absolute;
+    left:91px;
+    top:187px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u87 {
+    position:absolute;
+    left:191px;
+    top:188px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u88 {
+    position:absolute;
+    left:388px;
+    top:156px;
+    width:65px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u89 {
+    position:absolute;
+    left:10px;
+    top:140px;
+    width:190px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:372px;
+    top:140px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:543px;
+    top:167px;
+    width:99px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u92_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u92_container {
+    position:absolute;
+    left:501px;
+    top:140px;
+    width:180px;
+    height:20px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:26px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92 {
+    position:absolute;
+    left:501px;
+    top:140px;
+    width:180px;
+    height:20px
+}
+
+.u95_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u52_original.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:270px;
+    top:269px;
+    width:90px;
+    height:21px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:27px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:86px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:270px;
+    top:269px;
+    width:90px;
+    height:21px
+}
+
+.u97_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u54_original.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:280px;
+    top:272px;
+    width:16px;
+    height:16px;
+}
+
+#u97_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:280px;
+    top:272px;
+    width:16px;
+    height:16px
+}
+
+.u100_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u100_original.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:690px;
+    height:210px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:696px;
+    height:216px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:97px;
+    width:686px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:690px;
+    height:210px
+}
+
+.u102_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u3_original.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:5px;
+    top:40px;
+    width:680px;
+    height:86px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:686px;
+    height:92px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:676px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:5px;
+    top:40px;
+    width:680px;
+    height:86px
+}
+
+.u104_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u5_original.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:610px;
+    top:163px;
+    width:70px;
+    height:20px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:26px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:610px;
+    top:163px;
+    width:70px;
+    height:20px
+}
+
+.u106_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u5_original.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:10px;
+    top:163px;
+    width:70px;
+    height:20px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:26px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106 {
+    position:absolute;
+    left:10px;
+    top:163px;
+    width:70px;
+    height:20px
+}
+
+.u108_text {
+    position:absolute;
+    left:540px;
+    top:106px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:540px;
+    top:106px;
+    width:100px;
+    height:16px
+}
+
+.u109_line {
+    background-image: url('../footer_files/u34_line.png');
+}
+
+.u109_line {
+    position:absolute;
+    left:0px;
+    top:215px;
+    width:690px;
+    height:3px;
+}
+
+.u109 {
+    position:absolute;
+    left:0px;
+    top:215px;
+    width:690px;
+    height:3px
+}
+
+.u110 {
+    position:absolute;
+    left:81px;
+    top:235px;
+    width:480px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:10px;
+    top:67px;
+    width:370px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u113 {
+    position:absolute;
+    left:11px;
+    top:97px;
+    width:70px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u114 {
+    position:absolute;
+    left:91px;
+    top:97px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u115 {
+    position:absolute;
+    left:191px;
+    top:98px;
+    width:90px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u116 {
+    position:absolute;
+    left:388px;
+    top:66px;
+    width:65px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u117 {
+    position:absolute;
+    left:10px;
+    top:50px;
+    width:190px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118 {
+    position:absolute;
+    left:372px;
+    top:50px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119 {
+    position:absolute;
+    left:543px;
+    top:77px;
+    width:99px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u120_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u120_container {
+    position:absolute;
+    left:501px;
+    top:50px;
+    width:180px;
+    height:20px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:26px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120 {
+    position:absolute;
+    left:501px;
+    top:50px;
+    width:180px;
+    height:20px
+}
+
+.u123_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u52_original.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:270px;
+    top:179px;
+    width:90px;
+    height:21px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:27px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:86px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123 {
+    position:absolute;
+    left:270px;
+    top:179px;
+    width:90px;
+    height:21px
+}
+
+.u125_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u54_original.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:280px;
+    top:182px;
+    width:16px;
+    height:16px;
+}
+
+#u125_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125 {
+    position:absolute;
+    left:280px;
+    top:182px;
+    width:16px;
+    height:16px
+}
+
+.u127 {
+    position:absolute;
+    left:10px;
+    top:20px;
+    width:342px;
+    height:29px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128 {
+    position:absolute;
+    left:368px;
+    top:10px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129 {
+    position:absolute;
+    left:467px;
+    top:10px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130 {
+    position:absolute;
+    left:674px;
+    top:10px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131 {
+    position:absolute;
+    left:606px;
+    top:10px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_line {
+    background-image: url('../header-longa-bo_files/u25_line.png');
+}
+
+.u132_line {
+    position:absolute;
+    left:12px;
+    top:84px;
+    width:690px;
+    height:3px;
+}
+
+.u132 {
+    position:absolute;
+    left:12px;
+    top:84px;
+    width:690px;
+    height:3px
+}
+
+.u133 {
+    position:absolute;
+    left:90px;
+    top:60px;
+    width:540px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_line {
+    background-image: url('../passo-3-portfolio-empresa_files/u135_line.png');
+}
+
+.u135_line {
+    position:absolute;
+    left:48px;
+    top:116px;
+    width:104px;
+    height:5px;
+}
+
+.u135 {
+    position:absolute;
+    left:48px;
+    top:116px;
+    width:104px;
+    height:5px
+}
+
+.u136_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u136_original.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:17px;
+    top:103px;
+    width:30px;
+    height:30px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:17px;
+    top:103px;
+    width:30px;
+    height:30px
+}
+
+.u138_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u136_original.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:152px;
+    top:103px;
+    width:30px;
+    height:30px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138 {
+    position:absolute;
+    left:152px;
+    top:103px;
+    width:30px;
+    height:30px
+}
+
+.u140_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u140_original.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:287px;
+    top:103px;
+    width:30px;
+    height:30px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:287px;
+    top:103px;
+    width:30px;
+    height:30px
+}
+
+.u142_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u136_original.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:572px;
+    top:102px;
+    width:30px;
+    height:30px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142 {
+    position:absolute;
+    left:572px;
+    top:102px;
+    width:30px;
+    height:30px
+}
+
+.u144 {
+    position:absolute;
+    left:51px;
+    top:103px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145 {
+    position:absolute;
+    left:323px;
+    top:121px;
+    width:94px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146 {
+    position:absolute;
+    left:186px;
+    top:103px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147 {
+    position:absolute;
+    left:318px;
+    top:102px;
+    width:126px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148 {
+    position:absolute;
+    left:609px;
+    top:100px;
+    width:81px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149_line {
+    background-image: url('../passo-3-portfolio-empresa_files/u149_line.png');
+}
+
+.u149_line {
+    position:absolute;
+    left:183px;
+    top:116px;
+    width:104px;
+    height:5px;
+}
+
+.u149 {
+    position:absolute;
+    left:183px;
+    top:116px;
+    width:104px;
+    height:5px
+}
+
+.u150_line {
+    background-image: url('../passo-3-portfolio-empresa_files/u150_line.png');
+}
+
+.u150_line {
+    position:absolute;
+    left:317px;
+    top:116px;
+    width:120px;
+    height:5px;
+}
+
+.u150 {
+    position:absolute;
+    left:317px;
+    top:116px;
+    width:120px;
+    height:5px
+}
+
+.u151_line {
+    background-image: url('../passo-3-portfolio-empresa_files/u151_line.png');
+}
+
+.u151_line {
+    position:absolute;
+    left:602px;
+    top:115px;
+    width:95px;
+    height:5px;
+}
+
+.u151 {
+    position:absolute;
+    left:602px;
+    top:115px;
+    width:95px;
+    height:5px
+}
+
+.u152_original {
+    background-image: url('../passo-3-portfolio-empresa_files/u136_original.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:438px;
+    top:102px;
+    width:30px;
+    height:30px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152 {
+    position:absolute;
+    left:438px;
+    top:102px;
+    width:30px;
+    height:30px
+}
+
+.u154 {
+    position:absolute;
+    left:472px;
+    top:101px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_line {
+    background-image: url('../passo-3-portfolio-empresa_files/u155_line.png');
+}
+
+.u155_line {
+    position:absolute;
+    left:468px;
+    top:115px;
+    width:104px;
+    height:5px;
+}
+
+.u155 {
+    position:absolute;
+    left:468px;
+    top:115px;
+    width:104px;
+    height:5px
+}
+
+.u156 {
+    position:absolute;
+    left:20px;
+    top:164px;
+    width:410px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

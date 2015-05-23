@@ -1,0 +1,1430 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:13px;
+    top:110px;
+    width:690px;
+    height:346px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:696px;
+    height:352px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:165px;
+    width:686px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:13px;
+    top:110px;
+    width:690px;
+    height:346px
+}
+
+.u2_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:14px;
+    top:162px;
+    width:689px;
+    height:20px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:695px;
+    height:26px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:685px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:14px;
+    top:162px;
+    width:689px;
+    height:20px
+}
+
+.u4 {
+    position:absolute;
+    left:10px;
+    top:20px;
+    width:342px;
+    height:29px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:368px;
+    top:10px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:467px;
+    top:10px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:674px;
+    top:10px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:606px;
+    top:10px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_line {
+    background-image: url('../header_files/u51_line.png');
+}
+
+.u9_line {
+    position:absolute;
+    left:12px;
+    top:84px;
+    width:690px;
+    height:3px;
+}
+
+.u9 {
+    position:absolute;
+    left:12px;
+    top:84px;
+    width:690px;
+    height:3px
+}
+
+.u10 {
+    position:absolute;
+    left:90px;
+    top:60px;
+    width:540px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u12_original.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:14px;
+    top:110px;
+    width:688px;
+    height:40px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:694px;
+    height:46px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:684px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:14px;
+    top:110px;
+    width:688px;
+    height:40px
+}
+
+.u14_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u14_original.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:239px;
+    top:203px;
+    width:336px;
+    height:30px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:342px;
+    height:36px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:332px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:239px;
+    top:203px;
+    width:336px;
+    height:30px
+}
+
+.u16_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u16_original.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:14px;
+    top:203px;
+    width:106px;
+    height:30px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:36px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:14px;
+    top:203px;
+    width:106px;
+    height:30px
+}
+
+.u18_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u18_original.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:575px;
+    top:203px;
+    width:127px;
+    height:30px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:36px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:123px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:575px;
+    top:203px;
+    width:127px;
+    height:30px
+}
+
+.u20_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u20_original.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:240px;
+    top:182px;
+    width:334px;
+    height:21px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:340px;
+    height:27px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:330px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:240px;
+    top:182px;
+    width:334px;
+    height:21px
+}
+
+.u22_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u22_original.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:14px;
+    top:182px;
+    width:106px;
+    height:21px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:27px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:14px;
+    top:182px;
+    width:106px;
+    height:21px
+}
+
+.u24_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u24_original.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:575px;
+    top:182px;
+    width:127px;
+    height:21px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:27px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:123px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:575px;
+    top:182px;
+    width:127px;
+    height:21px
+}
+
+.u26_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u26_original.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:239px;
+    top:233px;
+    width:336px;
+    height:35px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:342px;
+    height:41px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:332px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:239px;
+    top:233px;
+    width:336px;
+    height:35px
+}
+
+.u28_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u28_original.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:14px;
+    top:233px;
+    width:106px;
+    height:35px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:41px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:14px;
+    top:233px;
+    width:106px;
+    height:35px
+}
+
+.u30_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u30_original.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:575px;
+    top:233px;
+    width:127px;
+    height:35px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:41px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:123px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:575px;
+    top:233px;
+    width:127px;
+    height:35px
+}
+
+.u32_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u32_original.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:120px;
+    top:182px;
+    width:120px;
+    height:21px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:27px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:120px;
+    top:182px;
+    width:120px;
+    height:21px
+}
+
+.u34_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u34_original.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:120px;
+    top:203px;
+    width:120px;
+    height:30px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:36px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:120px;
+    top:203px;
+    width:120px;
+    height:30px
+}
+
+.u36_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u36_original.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:120px;
+    top:233px;
+    width:120px;
+    height:35px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:41px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:120px;
+    top:233px;
+    width:120px;
+    height:35px
+}
+
+.u38_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u26_original.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:239px;
+    top:268px;
+    width:336px;
+    height:35px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:342px;
+    height:41px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:332px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:239px;
+    top:268px;
+    width:336px;
+    height:35px
+}
+
+.u40_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u28_original.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:14px;
+    top:268px;
+    width:106px;
+    height:35px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:41px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:14px;
+    top:268px;
+    width:106px;
+    height:35px
+}
+
+.u42_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u30_original.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:575px;
+    top:268px;
+    width:127px;
+    height:35px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:41px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:123px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:575px;
+    top:268px;
+    width:127px;
+    height:35px
+}
+
+.u44_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u36_original.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:120px;
+    top:268px;
+    width:120px;
+    height:35px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:41px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:120px;
+    top:268px;
+    width:120px;
+    height:35px
+}
+
+.u46_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u46_original.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:239px;
+    top:303px;
+    width:336px;
+    height:51px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:342px;
+    height:57px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:332px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:239px;
+    top:303px;
+    width:336px;
+    height:51px
+}
+
+.u48_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u48_original.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:14px;
+    top:303px;
+    width:106px;
+    height:51px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:57px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:14px;
+    top:303px;
+    width:106px;
+    height:51px
+}
+
+.u50_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u50_original.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:575px;
+    top:303px;
+    width:127px;
+    height:51px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:57px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:123px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:575px;
+    top:303px;
+    width:127px;
+    height:51px
+}
+
+.u52_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u52_original.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:120px;
+    top:303px;
+    width:120px;
+    height:51px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:57px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:120px;
+    top:303px;
+    width:120px;
+    height:51px
+}
+
+.u54_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u46_original.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:239px;
+    top:354px;
+    width:336px;
+    height:51px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:342px;
+    height:57px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:332px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:239px;
+    top:354px;
+    width:336px;
+    height:51px
+}
+
+.u56_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u48_original.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:14px;
+    top:354px;
+    width:106px;
+    height:51px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:57px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:14px;
+    top:354px;
+    width:106px;
+    height:51px
+}
+
+.u58_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u50_original.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:575px;
+    top:354px;
+    width:127px;
+    height:51px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:57px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:123px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:575px;
+    top:354px;
+    width:127px;
+    height:51px
+}
+
+.u60_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u52_original.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:120px;
+    top:354px;
+    width:120px;
+    height:51px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:57px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:120px;
+    top:354px;
+    width:120px;
+    height:51px
+}
+
+.u62_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u46_original.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:240px;
+    top:405px;
+    width:336px;
+    height:51px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:342px;
+    height:57px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:332px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:240px;
+    top:405px;
+    width:336px;
+    height:51px
+}
+
+.u64_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u48_original.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:15px;
+    top:405px;
+    width:106px;
+    height:51px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:57px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64 {
+    position:absolute;
+    left:15px;
+    top:405px;
+    width:106px;
+    height:51px
+}
+
+.u66_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u50_original.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:576px;
+    top:405px;
+    width:127px;
+    height:51px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:57px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:123px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:576px;
+    top:405px;
+    width:127px;
+    height:51px
+}
+
+.u68_original {
+    background-image: url('../Copy_of_inscricao-completa_files/u52_original.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:121px;
+    top:405px;
+    width:120px;
+    height:51px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:57px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:121px;
+    top:405px;
+    width:120px;
+    height:51px
+}
+

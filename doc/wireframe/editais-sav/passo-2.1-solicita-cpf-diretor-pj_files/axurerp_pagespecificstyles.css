@@ -1,0 +1,728 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:10px;
+    top:151px;
+    width:690px;
+    height:250px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:696px;
+    height:256px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:686px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:10px;
+    top:151px;
+    width:690px;
+    height:250px
+}
+
+.u2 {
+    position:absolute;
+    left:179px;
+    top:190px;
+    width:140px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u3 {
+    position:absolute;
+    left:34px;
+    top:195px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:10px;
+    top:20px;
+    width:342px;
+    height:29px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:368px;
+    top:10px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:467px;
+    top:10px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:674px;
+    top:10px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:606px;
+    top:10px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_line {
+    background-image: url('../header-longa-bo_files/u25_line.png');
+}
+
+.u9_line {
+    position:absolute;
+    left:12px;
+    top:84px;
+    width:690px;
+    height:3px;
+}
+
+.u9 {
+    position:absolute;
+    left:12px;
+    top:84px;
+    width:690px;
+    height:3px
+}
+
+.u10 {
+    position:absolute;
+    left:90px;
+    top:60px;
+    width:540px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:25px;
+    top:161px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_line {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u13_line.png');
+}
+
+.u13_line {
+    position:absolute;
+    left:47px;
+    top:116px;
+    width:104px;
+    height:5px;
+}
+
+.u13 {
+    position:absolute;
+    left:47px;
+    top:116px;
+    width:104px;
+    height:5px
+}
+
+.u14_original {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u14_original.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:16px;
+    top:103px;
+    width:30px;
+    height:30px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:16px;
+    top:103px;
+    width:30px;
+    height:30px
+}
+
+.u16_original {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u16_original.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:151px;
+    top:103px;
+    width:30px;
+    height:30px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:151px;
+    top:103px;
+    width:30px;
+    height:30px
+}
+
+.u18 {
+    position:absolute;
+    left:50px;
+    top:103px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:185px;
+    top:121px;
+    width:94px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:185px;
+    top:103px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_line {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u21_line.png');
+}
+
+.u21_line {
+    position:absolute;
+    left:182px;
+    top:116px;
+    width:104px;
+    height:5px;
+}
+
+.u21 {
+    position:absolute;
+    left:182px;
+    top:116px;
+    width:104px;
+    height:5px
+}
+
+.u22_original {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u14_original.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:287px;
+    top:103px;
+    width:30px;
+    height:30px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:287px;
+    top:103px;
+    width:30px;
+    height:30px
+}
+
+.u24_original {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u14_original.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:572px;
+    top:102px;
+    width:30px;
+    height:30px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:572px;
+    top:102px;
+    width:30px;
+    height:30px
+}
+
+.u26 {
+    position:absolute;
+    left:318px;
+    top:102px;
+    width:126px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:609px;
+    top:100px;
+    width:81px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_line {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u28_line.png');
+}
+
+.u28_line {
+    position:absolute;
+    left:317px;
+    top:116px;
+    width:120px;
+    height:5px;
+}
+
+.u28 {
+    position:absolute;
+    left:317px;
+    top:116px;
+    width:120px;
+    height:5px
+}
+
+.u29_line {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:602px;
+    top:115px;
+    width:95px;
+    height:5px;
+}
+
+.u29 {
+    position:absolute;
+    left:602px;
+    top:115px;
+    width:95px;
+    height:5px
+}
+
+.u30_original {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u14_original.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:438px;
+    top:102px;
+    width:30px;
+    height:30px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:438px;
+    top:102px;
+    width:30px;
+    height:30px
+}
+
+.u32 {
+    position:absolute;
+    left:472px;
+    top:101px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_line {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u33_line.png');
+}
+
+.u33_line {
+    position:absolute;
+    left:468px;
+    top:115px;
+    width:104px;
+    height:5px;
+}
+
+.u33 {
+    position:absolute;
+    left:468px;
+    top:115px;
+    width:104px;
+    height:5px
+}
+
+.u34_line {
+    background-image: url('../footer_files/u34_line.png');
+}
+
+.u34_line {
+    position:absolute;
+    left:10px;
+    top:414px;
+    width:690px;
+    height:3px;
+}
+
+.u34 {
+    position:absolute;
+    left:10px;
+    top:414px;
+    width:690px;
+    height:3px
+}
+
+.u35 {
+    position:absolute;
+    left:91px;
+    top:434px;
+    width:480px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_original {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u37_original.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:400px;
+    top:170px;
+    width:200px;
+    height:110px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:116px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:196px;
+    height:105px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:400px;
+    top:170px;
+    width:200px;
+    height:110px
+}
+
+.u39_original {
+    background-image: url('../passo-2.1-solicita-cpf-diretor-pj_files/u39_original.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:250px;
+    top:229px;
+    width:70px;
+    height:21px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:27px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:250px;
+    top:229px;
+    width:70px;
+    height:21px
+}
+

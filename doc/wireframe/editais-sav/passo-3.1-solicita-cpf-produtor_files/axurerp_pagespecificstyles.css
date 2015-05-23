@@ -1,0 +1,728 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_line {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u0_line.png');
+}
+
+.u0_line {
+    position:absolute;
+    left:48px;
+    top:119px;
+    width:104px;
+    height:5px;
+}
+
+.u0 {
+    position:absolute;
+    left:48px;
+    top:119px;
+    width:104px;
+    height:5px
+}
+
+.u1_original {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u1_original.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:17px;
+    top:106px;
+    width:30px;
+    height:30px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:17px;
+    top:106px;
+    width:30px;
+    height:30px
+}
+
+.u3_original {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u1_original.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:152px;
+    top:106px;
+    width:30px;
+    height:30px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:152px;
+    top:106px;
+    width:30px;
+    height:30px
+}
+
+.u5_original {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u5_original.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:287px;
+    top:106px;
+    width:30px;
+    height:30px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:287px;
+    top:106px;
+    width:30px;
+    height:30px
+}
+
+.u7_original {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u1_original.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:572px;
+    top:105px;
+    width:30px;
+    height:30px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:572px;
+    top:105px;
+    width:30px;
+    height:30px
+}
+
+.u9 {
+    position:absolute;
+    left:51px;
+    top:106px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:323px;
+    top:124px;
+    width:94px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:186px;
+    top:106px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:322px;
+    top:105px;
+    width:126px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:609px;
+    top:103px;
+    width:81px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_line {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u14_line.png');
+}
+
+.u14_line {
+    position:absolute;
+    left:183px;
+    top:119px;
+    width:104px;
+    height:5px;
+}
+
+.u14 {
+    position:absolute;
+    left:183px;
+    top:119px;
+    width:104px;
+    height:5px
+}
+
+.u15_line {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u15_line.png');
+}
+
+.u15_line {
+    position:absolute;
+    left:317px;
+    top:119px;
+    width:120px;
+    height:5px;
+}
+
+.u15 {
+    position:absolute;
+    left:317px;
+    top:119px;
+    width:120px;
+    height:5px
+}
+
+.u16_line {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u16_line.png');
+}
+
+.u16_line {
+    position:absolute;
+    left:602px;
+    top:118px;
+    width:95px;
+    height:5px;
+}
+
+.u16 {
+    position:absolute;
+    left:602px;
+    top:118px;
+    width:95px;
+    height:5px
+}
+
+.u17_original {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u1_original.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:438px;
+    top:105px;
+    width:30px;
+    height:30px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:438px;
+    top:105px;
+    width:30px;
+    height:30px
+}
+
+.u19 {
+    position:absolute;
+    left:472px;
+    top:104px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_line {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u20_line.png');
+}
+
+.u20_line {
+    position:absolute;
+    left:468px;
+    top:118px;
+    width:104px;
+    height:5px;
+}
+
+.u20 {
+    position:absolute;
+    left:468px;
+    top:118px;
+    width:104px;
+    height:5px
+}
+
+.u21 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:342px;
+    height:29px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:368px;
+    top:0px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:467px;
+    top:0px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:674px;
+    top:0px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:606px;
+    top:0px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_line {
+    background-image: url('../header-curta-metragem_files/u88_line.png');
+}
+
+.u26_line {
+    position:absolute;
+    left:12px;
+    top:74px;
+    width:690px;
+    height:3px;
+}
+
+.u26 {
+    position:absolute;
+    left:12px;
+    top:74px;
+    width:690px;
+    height:3px
+}
+
+.u27 {
+    position:absolute;
+    left:51px;
+    top:50px;
+    width:579px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_original {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u29_original.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:10px;
+    top:151px;
+    width:690px;
+    height:250px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:696px;
+    height:256px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:686px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:10px;
+    top:151px;
+    width:690px;
+    height:250px
+}
+
+.u31 {
+    position:absolute;
+    left:179px;
+    top:190px;
+    width:140px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u32 {
+    position:absolute;
+    left:34px;
+    top:195px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:25px;
+    top:161px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_line {
+    background-image: url('../footer_files/u34_line.png');
+}
+
+.u34_line {
+    position:absolute;
+    left:10px;
+    top:414px;
+    width:690px;
+    height:3px;
+}
+
+.u34 {
+    position:absolute;
+    left:10px;
+    top:414px;
+    width:690px;
+    height:3px
+}
+
+.u35 {
+    position:absolute;
+    left:91px;
+    top:434px;
+    width:480px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_original {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u37_original.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:400px;
+    top:170px;
+    width:200px;
+    height:110px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:116px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:196px;
+    height:105px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:400px;
+    top:170px;
+    width:200px;
+    height:110px
+}
+
+.u39_original {
+    background-image: url('../passo-3.1-solicita-cpf-produtor_files/u39_original.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:250px;
+    top:229px;
+    width:70px;
+    height:21px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:27px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:250px;
+    top:229px;
+    width:70px;
+    height:21px
+}
+

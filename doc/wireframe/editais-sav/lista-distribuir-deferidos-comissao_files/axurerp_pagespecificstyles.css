@@ -1,0 +1,3732 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:104px;
+    top:70px;
+    width:79px;
+    height:22px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:28px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:104px;
+    top:70px;
+    width:79px;
+    height:22px
+}
+
+.u2_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:190px;
+    top:70px;
+    width:229px;
+    height:22px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:190px;
+    top:70px;
+    width:229px;
+    height:22px
+}
+
+.u4_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u2_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:423px;
+    top:70px;
+    width:229px;
+    height:22px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:423px;
+    top:70px;
+    width:229px;
+    height:22px
+}
+
+.u6_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u6_original.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:707px;
+    top:70px;
+    width:99px;
+    height:22px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:28px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:707px;
+    top:70px;
+    width:99px;
+    height:22px
+}
+
+.u8 {
+    position:absolute;
+    left:110px;
+    top:50px;
+    width:73px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:189px;
+    top:50px;
+    width:229px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:424px;
+    top:50px;
+    width:229px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_text {
+    position:absolute;
+    left:707px;
+    top:75px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:707px;
+    top:75px;
+    width:93px;
+    height:16px
+}
+
+.u12 {
+    position:absolute;
+    left:193px;
+    top:75px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:428px;
+    top:75px;
+    width:223px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u14_container {
+    position:absolute;
+    left:104px;
+    top:96px;
+    width:79px;
+    height:22px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:28px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:104px;
+    top:96px;
+    width:79px;
+    height:22px
+}
+
+.u16_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u16_container {
+    position:absolute;
+    left:190px;
+    top:96px;
+    width:229px;
+    height:22px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:190px;
+    top:96px;
+    width:229px;
+    height:22px
+}
+
+.u18_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u18_container {
+    position:absolute;
+    left:423px;
+    top:96px;
+    width:229px;
+    height:22px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:423px;
+    top:96px;
+    width:229px;
+    height:22px
+}
+
+.u20_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u20_container {
+    position:absolute;
+    left:707px;
+    top:96px;
+    width:99px;
+    height:22px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:28px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:707px;
+    top:96px;
+    width:99px;
+    height:22px
+}
+
+.u22 {
+    position:absolute;
+    left:707px;
+    top:99px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:193px;
+    top:101px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:428px;
+    top:101px;
+    width:223px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u25_original.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:105px;
+    top:118px;
+    width:80px;
+    height:22px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:105px;
+    top:118px;
+    width:80px;
+    height:22px
+}
+
+.u27_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u27_original.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:191px;
+    top:118px;
+    width:228px;
+    height:22px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:191px;
+    top:118px;
+    width:228px;
+    height:22px
+}
+
+.u29_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u27_original.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:424px;
+    top:118px;
+    width:228px;
+    height:22px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:424px;
+    top:118px;
+    width:228px;
+    height:22px
+}
+
+.u31_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u31_original.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:707px;
+    top:118px;
+    width:100px;
+    height:22px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:707px;
+    top:118px;
+    width:100px;
+    height:22px
+}
+
+.u33 {
+    position:absolute;
+    left:707px;
+    top:123px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:194px;
+    top:123px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:428px;
+    top:123px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u36_container {
+    position:absolute;
+    left:105px;
+    top:144px;
+    width:80px;
+    height:22px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:105px;
+    top:144px;
+    width:80px;
+    height:22px
+}
+
+.u38_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u38_container {
+    position:absolute;
+    left:191px;
+    top:144px;
+    width:228px;
+    height:22px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:191px;
+    top:144px;
+    width:228px;
+    height:22px
+}
+
+.u40_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u40_container {
+    position:absolute;
+    left:424px;
+    top:144px;
+    width:228px;
+    height:22px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:424px;
+    top:144px;
+    width:228px;
+    height:22px
+}
+
+.u42_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u42_container {
+    position:absolute;
+    left:707px;
+    top:144px;
+    width:100px;
+    height:22px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:707px;
+    top:144px;
+    width:100px;
+    height:22px
+}
+
+.u44 {
+    position:absolute;
+    left:707px;
+    top:147px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:194px;
+    top:149px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:428px;
+    top:149px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u25_original.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:105px;
+    top:165px;
+    width:80px;
+    height:22px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:105px;
+    top:165px;
+    width:80px;
+    height:22px
+}
+
+.u49_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u27_original.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:191px;
+    top:165px;
+    width:228px;
+    height:22px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:191px;
+    top:165px;
+    width:228px;
+    height:22px
+}
+
+.u51_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u27_original.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:424px;
+    top:165px;
+    width:228px;
+    height:22px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:424px;
+    top:165px;
+    width:228px;
+    height:22px
+}
+
+.u53_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u6_original.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:707px;
+    top:165px;
+    width:99px;
+    height:22px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:28px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:707px;
+    top:165px;
+    width:99px;
+    height:22px
+}
+
+.u55 {
+    position:absolute;
+    left:707px;
+    top:170px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:194px;
+    top:170px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:428px;
+    top:170px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u58_container {
+    position:absolute;
+    left:105px;
+    top:191px;
+    width:80px;
+    height:22px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:105px;
+    top:191px;
+    width:80px;
+    height:22px
+}
+
+.u60_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u60_container {
+    position:absolute;
+    left:191px;
+    top:191px;
+    width:228px;
+    height:22px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:191px;
+    top:191px;
+    width:228px;
+    height:22px
+}
+
+.u62_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u62_container {
+    position:absolute;
+    left:424px;
+    top:191px;
+    width:228px;
+    height:22px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:424px;
+    top:191px;
+    width:228px;
+    height:22px
+}
+
+.u64_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u64_container {
+    position:absolute;
+    left:707px;
+    top:191px;
+    width:100px;
+    height:22px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64 {
+    position:absolute;
+    left:707px;
+    top:191px;
+    width:100px;
+    height:22px
+}
+
+.u66 {
+    position:absolute;
+    left:707px;
+    top:194px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:194px;
+    top:196px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:428px;
+    top:196px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u25_original.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:106px;
+    top:213px;
+    width:80px;
+    height:22px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69 {
+    position:absolute;
+    left:106px;
+    top:213px;
+    width:80px;
+    height:22px
+}
+
+.u71_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u2_original.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:191px;
+    top:213px;
+    width:229px;
+    height:22px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:191px;
+    top:213px;
+    width:229px;
+    height:22px
+}
+
+.u73_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u2_original.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:424px;
+    top:213px;
+    width:229px;
+    height:22px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:424px;
+    top:213px;
+    width:229px;
+    height:22px
+}
+
+.u75_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u6_original.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:707px;
+    top:213px;
+    width:99px;
+    height:22px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:28px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:707px;
+    top:213px;
+    width:99px;
+    height:22px
+}
+
+.u77 {
+    position:absolute;
+    left:707px;
+    top:218px;
+    width:83px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:195px;
+    top:218px;
+    width:220px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:429px;
+    top:218px;
+    width:223px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u80_container {
+    position:absolute;
+    left:106px;
+    top:239px;
+    width:80px;
+    height:22px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80 {
+    position:absolute;
+    left:106px;
+    top:239px;
+    width:80px;
+    height:22px
+}
+
+.u82_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u82_container {
+    position:absolute;
+    left:191px;
+    top:239px;
+    width:229px;
+    height:22px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82 {
+    position:absolute;
+    left:191px;
+    top:239px;
+    width:229px;
+    height:22px
+}
+
+.u84_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u84_container {
+    position:absolute;
+    left:424px;
+    top:239px;
+    width:229px;
+    height:22px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:424px;
+    top:239px;
+    width:229px;
+    height:22px
+}
+
+.u86_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u86_container {
+    position:absolute;
+    left:707px;
+    top:239px;
+    width:100px;
+    height:22px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:707px;
+    top:239px;
+    width:100px;
+    height:22px
+}
+
+.u88 {
+    position:absolute;
+    left:707px;
+    top:242px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89 {
+    position:absolute;
+    left:195px;
+    top:244px;
+    width:220px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:429px;
+    top:244px;
+    width:223px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u25_original.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:105px;
+    top:262px;
+    width:80px;
+    height:22px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:105px;
+    top:262px;
+    width:80px;
+    height:22px
+}
+
+.u93_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u27_original.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:191px;
+    top:262px;
+    width:228px;
+    height:22px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93 {
+    position:absolute;
+    left:191px;
+    top:262px;
+    width:228px;
+    height:22px
+}
+
+.u95_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u27_original.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:424px;
+    top:262px;
+    width:228px;
+    height:22px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:424px;
+    top:262px;
+    width:228px;
+    height:22px
+}
+
+.u97_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u6_original.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:707px;
+    top:262px;
+    width:99px;
+    height:22px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:28px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:707px;
+    top:262px;
+    width:99px;
+    height:22px
+}
+
+.u99 {
+    position:absolute;
+    left:707px;
+    top:267px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100 {
+    position:absolute;
+    left:194px;
+    top:267px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101 {
+    position:absolute;
+    left:428px;
+    top:267px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u102_container {
+    position:absolute;
+    left:105px;
+    top:288px;
+    width:80px;
+    height:22px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:105px;
+    top:288px;
+    width:80px;
+    height:22px
+}
+
+.u104_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u104_container {
+    position:absolute;
+    left:191px;
+    top:288px;
+    width:228px;
+    height:22px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:191px;
+    top:288px;
+    width:228px;
+    height:22px
+}
+
+.u106_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u106_container {
+    position:absolute;
+    left:424px;
+    top:288px;
+    width:228px;
+    height:22px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:234px;
+    height:28px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106 {
+    position:absolute;
+    left:424px;
+    top:288px;
+    width:228px;
+    height:22px
+}
+
+.u108_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u108_container {
+    position:absolute;
+    left:707px;
+    top:288px;
+    width:100px;
+    height:22px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:707px;
+    top:288px;
+    width:100px;
+    height:22px
+}
+
+.u110 {
+    position:absolute;
+    left:707px;
+    top:291px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111 {
+    position:absolute;
+    left:194px;
+    top:293px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:428px;
+    top:293px;
+    width:224px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u25_original.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:106px;
+    top:310px;
+    width:80px;
+    height:22px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113 {
+    position:absolute;
+    left:106px;
+    top:310px;
+    width:80px;
+    height:22px
+}
+
+.u115_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u2_original.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:191px;
+    top:310px;
+    width:229px;
+    height:22px;
+}
+
+#u115_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115 {
+    position:absolute;
+    left:191px;
+    top:310px;
+    width:229px;
+    height:22px
+}
+
+.u117_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u2_original.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:424px;
+    top:310px;
+    width:229px;
+    height:22px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117 {
+    position:absolute;
+    left:424px;
+    top:310px;
+    width:229px;
+    height:22px
+}
+
+.u119_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u6_original.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:707px;
+    top:310px;
+    width:99px;
+    height:22px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:28px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119 {
+    position:absolute;
+    left:707px;
+    top:310px;
+    width:99px;
+    height:22px
+}
+
+.u121 {
+    position:absolute;
+    left:707px;
+    top:315px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122 {
+    position:absolute;
+    left:195px;
+    top:315px;
+    width:220px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123 {
+    position:absolute;
+    left:429px;
+    top:315px;
+    width:223px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u124_container {
+    position:absolute;
+    left:106px;
+    top:336px;
+    width:80px;
+    height:22px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:28px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:106px;
+    top:336px;
+    width:80px;
+    height:22px
+}
+
+.u126_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u126_container {
+    position:absolute;
+    left:191px;
+    top:336px;
+    width:229px;
+    height:22px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126 {
+    position:absolute;
+    left:191px;
+    top:336px;
+    width:229px;
+    height:22px
+}
+
+.u128_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u128_container {
+    position:absolute;
+    left:424px;
+    top:336px;
+    width:229px;
+    height:22px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:235px;
+    height:28px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128 {
+    position:absolute;
+    left:424px;
+    top:336px;
+    width:229px;
+    height:22px
+}
+
+.u130_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u130_container {
+    position:absolute;
+    left:707px;
+    top:336px;
+    width:100px;
+    height:22px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130 {
+    position:absolute;
+    left:707px;
+    top:336px;
+    width:100px;
+    height:22px
+}
+
+.u132 {
+    position:absolute;
+    left:707px;
+    top:339px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133 {
+    position:absolute;
+    left:195px;
+    top:341px;
+    width:220px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134 {
+    position:absolute;
+    left:429px;
+    top:341px;
+    width:223px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135 {
+    position:absolute;
+    left:130px;
+    top:25px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:60px;
+    top:19px;
+    width:720px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137 {
+    position:absolute;
+    left:398px;
+    top:410px;
+    width:117px;
+    height:31px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Verdana';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u138_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u138_original.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:660px;
+    top:70px;
+    width:39px;
+    height:22px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138 {
+    position:absolute;
+    left:660px;
+    top:70px;
+    width:39px;
+    height:22px
+}
+
+.u140_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u140_container {
+    position:absolute;
+    left:660px;
+    top:96px;
+    width:39px;
+    height:22px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:660px;
+    top:96px;
+    width:39px;
+    height:22px
+}
+
+.u142_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u138_original.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:660px;
+    top:118px;
+    width:39px;
+    height:22px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142 {
+    position:absolute;
+    left:660px;
+    top:118px;
+    width:39px;
+    height:22px
+}
+
+.u144_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u144_container {
+    position:absolute;
+    left:660px;
+    top:144px;
+    width:39px;
+    height:22px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:660px;
+    top:144px;
+    width:39px;
+    height:22px
+}
+
+.u146_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u138_original.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:660px;
+    top:165px;
+    width:39px;
+    height:22px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146 {
+    position:absolute;
+    left:660px;
+    top:165px;
+    width:39px;
+    height:22px
+}
+
+.u148_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u148_container {
+    position:absolute;
+    left:660px;
+    top:191px;
+    width:39px;
+    height:22px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148 {
+    position:absolute;
+    left:660px;
+    top:191px;
+    width:39px;
+    height:22px
+}
+
+.u150_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u138_original.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:660px;
+    top:213px;
+    width:39px;
+    height:22px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150 {
+    position:absolute;
+    left:660px;
+    top:213px;
+    width:39px;
+    height:22px
+}
+
+.u152_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u152_container {
+    position:absolute;
+    left:661px;
+    top:239px;
+    width:39px;
+    height:22px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152 {
+    position:absolute;
+    left:661px;
+    top:239px;
+    width:39px;
+    height:22px
+}
+
+.u154_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u138_original.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:660px;
+    top:262px;
+    width:39px;
+    height:22px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154 {
+    position:absolute;
+    left:660px;
+    top:262px;
+    width:39px;
+    height:22px
+}
+
+.u156_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u156_container {
+    position:absolute;
+    left:660px;
+    top:288px;
+    width:39px;
+    height:22px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156 {
+    position:absolute;
+    left:660px;
+    top:288px;
+    width:39px;
+    height:22px
+}
+
+.u158_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u138_original.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:660px;
+    top:310px;
+    width:39px;
+    height:22px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158 {
+    position:absolute;
+    left:660px;
+    top:310px;
+    width:39px;
+    height:22px
+}
+
+.u160_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u160_container {
+    position:absolute;
+    left:661px;
+    top:336px;
+    width:39px;
+    height:22px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:28px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160 {
+    position:absolute;
+    left:661px;
+    top:336px;
+    width:39px;
+    height:22px
+}
+
+.u162_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:673px;
+    top:77px;
+    width:10px;
+    height:10px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162 {
+    position:absolute;
+    left:673px;
+    top:77px;
+    width:10px;
+    height:10px
+}
+
+.u164_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:673px;
+    top:100px;
+    width:10px;
+    height:10px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164 {
+    position:absolute;
+    left:673px;
+    top:100px;
+    width:10px;
+    height:10px
+}
+
+.u166_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:673px;
+    top:123px;
+    width:10px;
+    height:10px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166 {
+    position:absolute;
+    left:673px;
+    top:123px;
+    width:10px;
+    height:10px
+}
+
+.u168_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:673px;
+    top:148px;
+    width:10px;
+    height:10px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168 {
+    position:absolute;
+    left:673px;
+    top:148px;
+    width:10px;
+    height:10px
+}
+
+.u170_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:673px;
+    top:170px;
+    width:10px;
+    height:10px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170 {
+    position:absolute;
+    left:673px;
+    top:170px;
+    width:10px;
+    height:10px
+}
+
+.u172_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:673px;
+    top:195px;
+    width:10px;
+    height:10px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172 {
+    position:absolute;
+    left:673px;
+    top:195px;
+    width:10px;
+    height:10px
+}
+
+.u174_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:673px;
+    top:219px;
+    width:10px;
+    height:10px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174 {
+    position:absolute;
+    left:673px;
+    top:219px;
+    width:10px;
+    height:10px
+}
+
+.u176_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:673px;
+    top:243px;
+    width:10px;
+    height:10px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176 {
+    position:absolute;
+    left:673px;
+    top:243px;
+    width:10px;
+    height:10px
+}
+
+.u178_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:673px;
+    top:267px;
+    width:10px;
+    height:10px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178 {
+    position:absolute;
+    left:673px;
+    top:267px;
+    width:10px;
+    height:10px
+}
+
+.u180_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:673px;
+    top:292px;
+    width:10px;
+    height:10px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180 {
+    position:absolute;
+    left:673px;
+    top:292px;
+    width:10px;
+    height:10px
+}
+
+.u182_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u162_original.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:673px;
+    top:316px;
+    width:10px;
+    height:10px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182 {
+    position:absolute;
+    left:673px;
+    top:316px;
+    width:10px;
+    height:10px
+}
+
+.u184_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u184_original.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:673px;
+    top:340px;
+    width:10px;
+    height:10px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184 {
+    position:absolute;
+    left:673px;
+    top:340px;
+    width:10px;
+    height:10px
+}
+
+.u186_original {
+    background-image: url('../lista-distribuir-deferidos-comissao_files/u186_original.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:104px;
+    top:365px;
+    width:700px;
+    height:22px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:706px;
+    height:28px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:696px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186 {
+    position:absolute;
+    left:104px;
+    top:365px;
+    width:700px;
+    height:22px
+}
+
+.u188 {
+    position:absolute;
+    left:283px;
+    top:369px;
+    width:160px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189 {
+    position:absolute;
+    left:473px;
+    top:369px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190 {
+    position:absolute;
+    left:683px;
+    top:369px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
